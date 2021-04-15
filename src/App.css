@@ -1,0 +1,9 @@
+strong {
+  padding-left: 10px;
+}
+
+.MuiAlert-standardError {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
