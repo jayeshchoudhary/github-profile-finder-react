@@ -1,3 +1,7 @@
+#Github Profile Finder Project
+
+### This project is made using react.js and also uses context api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
