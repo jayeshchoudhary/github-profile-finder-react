@@ -41,7 +41,7 @@ const Search = () => {
     } catch (err) {
       console.log(err);
       setNotFound(true);
-      //   setTimeout(() => setNotFound(false), 3000);
+      setTimeout(() => setNotFound(false), 3000);
     } finally {
       setLoading(false);
     }
