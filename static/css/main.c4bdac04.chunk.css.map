@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACE,iBACF,CAEA,wBACE,iBAAkB,CAClB,KAAM,CACN,OACF","file":"main.c4bdac04.chunk.css","sourcesContent":["strong {\n  padding-left: 10px;\n}\n\n.MuiAlert-standardError {\n  position: absolute;\n  top: 0;\n  right: 0;\n}\n"]}
