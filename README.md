@@ -2,7 +2,6 @@
 
 ### This project is made using react.js and also uses context api, Material UI React, and hooks
 
-<br>
 ### The website is live at https://jayeshchoudhary.github.io/github-profile-finder-react/
 
 ---
